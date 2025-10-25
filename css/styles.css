@@ -128,13 +128,13 @@ body {
 
 /* Carrusel */
 .carousel-inner {
-    height: 443px;
+    height: 470px;
     border-radius: 10px;
 }
 
 .carousel-item img {
     width: 100%;
-    height: 443px;
+    height: 470px;
     object-fit: cover;
     object-position: center;
 }
